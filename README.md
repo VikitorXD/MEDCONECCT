@@ -2,7 +2,7 @@
 
 ## Integrantes do Grupo
 
-- **[Paulo Henrique de Andrade Junior] rm99714:** Desenvolvedor Backend Java.
+- **[Victor Luca do Nascimento Queiroz] rm551886:** Desenvolvedor Backend Java.
 - **[Filipe de Oliveira Mendes] rm98959 :** Desenvolvedor Front-end React.
 - **[Fernando Paparelli] rm551022:** Scrum master e infra.
 - **[Vinicius Pedro de Souza] rm550907:** Analista de banco de dados.
@@ -22,7 +22,7 @@ Para rodar a aplicação, siga estas etapas:
    - **Clone o Repositório:**
 
      ```bash
-     git clone https://github.com/pauloh-andrade/med-connect
+     https://github.com/VikitorXD/MEDCONNECT.git
      ```
 
    - **Navegue até o Diretório do Projeto:**
