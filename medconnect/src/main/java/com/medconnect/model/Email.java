@@ -42,6 +42,5 @@ public class Email {
 
     public Email(CadastroEmailDto emailDto) {
         this.email = emailDto.email();
-        this.dataCadastro = emailDto.dataCadastro();
     }
 }
