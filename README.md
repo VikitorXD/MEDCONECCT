@@ -47,7 +47,7 @@ Para rodar a aplicação, siga estas etapas:
 
 ## Documentação
 
-[DOC](https://github.com/pauloh-andrade/med-connect/blob/main/documents/MedConnect_2tdspv.pdf)
+[DOC](https://github.com/VikitorXD/MEDCONNECT/blob/main/documents/MedConnect_2tdspv.pdf)
 
 ## Diagramas
 
