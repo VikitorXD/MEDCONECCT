@@ -47,18 +47,18 @@ Para rodar a aplicação, siga estas etapas:
 
 ## Documentação
 
-[DOC](https://github.com/pauloh-andrade/med-connect/blob/main/documents/MedConnect_2tdspv.pdf)
+[DOC](https://github.com/VikitorXD/MEDCONNECT/blob/main/documents/MedConnect_2tdspv.pdf)
 
 ## Diagramas
 
 **Arquitetura:**
 
 ![Arquitetura](https://github.com/pauloh-andrade/med-connect/blob/main/documents/arquitetura.drawio.png)
-**DER:** [Diagrama Entidade Relacionamento](https://github.com/pauloh-andrade/med-connect/blob/main/documents/DER.pdf)
+**DER:** [Diagrama Entidade Relacionamento](https://github.com/VikitorXD/MEDCONNECT/blob/main/documents/DER.pdf)
 
 ## Cronograma
 
-[Azure Board](https://github.com/pauloh-andrade/med-connect/blob/main/documents/cronograma_sprint_1.png)
+[Azure Board](https://github.com/VikitorXD/MEDCONNECT/blob/main/documents/cronograma_sprint_1.png)
 
 ## Vídeo de Apresentação
 
