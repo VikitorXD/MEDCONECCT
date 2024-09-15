@@ -2,7 +2,7 @@
 
 ## Integrantes do Grupo
 
-- **[Paulo Henrique de Andrade Junior] rm99714:** Desenvolvedor Backend Java.
+- **[Victor Luca do Nascimento Queiroz] rm551886:** Desenvolvedor Backend Java.
 - **[Filipe de Oliveira Mendes] rm98959 :** Desenvolvedor Front-end React.
 - **[Fernando Paparelli] rm551022:** Scrum master e infra.
 - **[Vinicius Pedro de Souza] rm550907:** Analista de banco de dados.
