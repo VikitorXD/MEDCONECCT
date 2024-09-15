@@ -58,7 +58,7 @@ Para rodar a aplicação, siga estas etapas:
 
 ## Cronograma
 
-[Azure Board](https://github.com/pauloh-andrade/med-connect/blob/main/documents/cronograma_sprint_1.png)
+[Azure Board](https://github.com/VikitorXD/MEDCONNECT/blob/main/documents/cronograma_sprint_1.png)
 
 ## Vídeo de Apresentação
 
