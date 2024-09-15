@@ -40,10 +40,6 @@ public class Produto {
     @Column(name="vl_produto")
     private Double valor;
 
-    @CreatedDate
-    @Column(name="dt_cadastro", nullable = false)
-    private LocalDateTime dataCadastro;
-
     @OneToMany(mappedBy = "produto")
     private List<Compra> compras = new ArrayList<>();
 
