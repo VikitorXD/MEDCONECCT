@@ -69,6 +69,7 @@ Assista ao vídeo de apresentação da nossa proposta tecnológica, público-alv
 A seguir está a listagem de todos os endpoints da API:
 
 **[Postman Collection](https://github.com/VikitorXD/MEDCONNECT/blob/main/documents/postaman/MED_CONNECT.postman_collection.json)**
-```
 
----
+## Documentação SWAGGER
+
+**[SWAGGER](http://localhost:8080/swagger-ui/index.html)**
