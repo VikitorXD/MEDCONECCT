@@ -22,7 +22,7 @@ Para rodar a aplicação, siga estas etapas:
    - **Clone o Repositório:**
 
      ```bash
-     git clone https://github.com/pauloh-andrade/med-connect
+     https://github.com/VikitorXD/MEDCONNECT.git
      ```
 
    - **Navegue até o Diretório do Projeto:**
